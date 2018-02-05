@@ -1,0 +1,5 @@
+C:\Users\specu\source\repos\DeGokkers\DeGokkers\obj\Debug\DeGokkers.csprojResolveAssemblyReference.cache
+C:\Users\specu\source\repos\DeGokkers\DeGokkers\obj\Debug\DeGokkers.Form1.resources
+C:\Users\specu\source\repos\DeGokkers\DeGokkers\obj\Debug\DeGokkers.Properties.Resources.resources
+C:\Users\specu\source\repos\DeGokkers\DeGokkers\obj\Debug\DeGokkers.csproj.GenerateResource.Cache
+C:\Users\specu\source\repos\DeGokkers\DeGokkers\obj\Debug\DeGokkers.csproj.CoreCompileInputs.cache
